@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 3em;
+  }
+  
+  .img_1 {
+    height: 25px;
+    padding-left: 11em;
+    padding-top: 0.5em;
+  }
+  
+  .img_2 {
+    padding-right: 8em;
+    padding-top: 0.5em;
+  }
+  
+  hr {
+    border: 6px solid whitesmoke;
+    border-radius: 4px;
+  }
+  

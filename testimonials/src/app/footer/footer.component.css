@@ -1,0 +1,45 @@
+input[type="text"],
+textarea {
+  width: 130%;
+  padding: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+hr{
+  border: 1.5px solid rgb(199, 192, 192);
+  border-radius: 10px;
+}
+.container {
+  border-radius: 5px;
+  background:white;
+  font-weight: bold;
+  padding-top: 5em;
+  padding-right: 8em;
+  padding-left: 8em;
+  padding-bottom: 2em;
+}
+
+.form {
+  padding-left: 3em;
+  padding-right: 17em;
+  padding-bottom: 5em;
+  border-top-left-radius: 1em;
+  border-bottom-right-radius: 1em;
+}
+
+.button {
+  width: 6em;
+  height: 2.5em;
+  background-color: #f05136;
+  color: white;
+  font-weight: bolder;
+}
+
+#experience{
+ height:100px;
+}
